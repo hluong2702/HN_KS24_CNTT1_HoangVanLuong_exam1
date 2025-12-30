@@ -1,5 +1,5 @@
 create database EXAMPRACTICE;
-use EXAMPRACTIC;
+use EXAMPRACTICE;
 
 create table Reader(
 reader_id int auto_increment primary key,
